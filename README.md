@@ -8,12 +8,12 @@
 timecomplexity
   |  -  classproblems
   |  -  assignments
-  |  -  leetcode_hackerrank
+  |  -  leetcode_hackerrank/interview_questions
 
 arrays
   |  -  classproblems
   |  -  assignments
-  |  -  leetcode_hackerrank
+  |  -  leetcode_hackerrank/interview_questions
 
 
 ```
