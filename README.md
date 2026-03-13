@@ -4,12 +4,16 @@
 
 # Folder Structure
 
-**timecomplexity**
+```
+timecomplexity
   |  -  classproblems
   |  -  assignments
   |  -  leetcode_hackerrank
 
-**arrays**
+arrays
   |  -  classproblems
   |  -  assignments
   |  -  leetcode_hackerrank
+
+
+```
