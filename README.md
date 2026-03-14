@@ -6,14 +6,14 @@
 
 ```
 timecomplexity
-  |--  classnotes
+  |--  classmaterials
   |--  assignments
-  |--  leetcode_hackerrank/interview_questions
+  |--  interview_questions
 
 arrays
-  |--  classnotes
+  |--  classmaterials
   |--  assignments
-  |--  leetcode_hackerrank/interview_questions
+  |--  interview_questions
 
 
 ```
