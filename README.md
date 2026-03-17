@@ -4,16 +4,5 @@
 
 # Folder Structure
 
-```
-timecomplexity
-  |--  classmaterials
-  |--  assignments
-  |--  interview_questions
-
-arrays
-  |--  classmaterials
-  |--  assignments
-  |--  interview_questions
-
-
-```
+* m01-timecomplexity
+* m02-arrays
