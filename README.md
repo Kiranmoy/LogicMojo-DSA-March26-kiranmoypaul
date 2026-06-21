@@ -6,6 +6,8 @@
 
 [Check out the Sessions](https://drive.google.com/drive/folders/12v5o8ecW97iUbZjhBqSF7BXsc4fdtBuG?usp=sharing)
 
+Same is updated in Google Drive also :point_right: https://drive.google.com/drive/folders/12v5o8ecW97iUbZjhBqSF7BXsc4fdtBuG?usp=sharing
+
 # Folder Structure
 
 * m01-timecomplexity
